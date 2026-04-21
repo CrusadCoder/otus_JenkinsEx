@@ -24,10 +24,10 @@
   "repositories": [
     {
       "name": "otus",
-      "path": "C:/Tools/Storage",
+      "path": "C:/Storage1C/Storage",
       "dir": "./src/cf",
       "temp-dir": "",
-      "v8version": "8.3.27.1936",
+      "v8version": "8.3.26.1521",
       "plugins-config": {
         "URL": "https://github.com/CrusadCoder/otus_JenkinsEx.git"
       }
@@ -35,10 +35,10 @@
     {
         "name": "YAXUNIT",
         "extension": "YAXUNIT",
-        "path": "C:/Tools/StorageYax",
+        "path": "C:/Storage1C/StorageYax",
         "dir": "./src/cfe/yaxunit",
         "temp-dir": "",
-        "v8version": "8.3.27.1936",
+        "v8version": "8.3.26.1521",
         "plugins-config": {
           "URL": "https://github.com/CrusadCoder/otus_JenkinsEx.git"
         }
